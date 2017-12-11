@@ -7,3 +7,4 @@ puts b.select.with_index {|_, index| index.even? }
 c= ["Вика", "Юля", "Таня", "Ира", "Маша"]
 d= ["Белка", "Стрелка", "Ричи", "Бонус", "Джек"]
 e= x=+
+f.Array.new(len,val)
